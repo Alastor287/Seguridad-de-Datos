@@ -1,33 +1,40 @@
-***CIA triad:***
+CIA triad:
+
 La tríada de la CIA se refiere a confidencialidad, integridad y disponibilidad, y describe un modelo diseñado para guiar las políticas de seguridad 
 de la información (infosec) dentro de una organización. A veces se hace referencia al modelo como la tríada AIC (que significa disponibilidad, 
 integridad y confidencialidad) para evitar confusión con la Agencia Central de Inteligencia. En este contexto, la confidencialidad es un conjunto 
 de reglas de alto nivel que limitan el acceso a todo tipo de datos e información. La integridad es la garantía de que la información es confiable y 
 precisa. Y la disponibilidad es una forma de gestión de riesgos para garantizar el acceso confiable a esa información por parte de personas autorizadas.
 
-**Usability triangle:*+
+Usability triangle:
+
 Triángulo de seguridad, funcionalidad y usabilidad
 Existe una interdependencia entre estos tres atributos. Cuando la seguridad aumenta, la usabilidad y la funcionalidad disminuyen. Cualquier organización 
 debe equilibrar estas tres cualidades para llegar a un sistema de información equilibrado. 
 
-**Riesgo:**
+Riesgo:
+
 El riesgo es una medida de la magnitud de los daños frente a una situación peligrosa. El riesgo se mide asumiendo una determinada vulnerabilidad frente a 
 cada tipo de peligro. Si bien no siempre se hace, debe distinguirse adecuadamente entre peligrosidad, vulnerabilidad y riesgo
 
-**MFA:**
+MFA:
+
 La autenticación multifactor (MFA) es un proceso de registro en varios pasos que requiere que los usuarios ingresen algo más de información que simplemente 
 una contraseña. Por ejemplo, junto con la contraseña, los usuarios deberán ingresar un código que se envía a su correo electrónico, responder a una pregunta 
 secreta o escanear una huella dactilar. Una segunda forma de autenticación puede ayudar a evitar el acceso no autorizado a una cuenta si la contraseña del 
 sistema se ha visto expuesta.
 
-**Vulnerabilidad:**
+Vulnerabilidad:
+
 Ser vulnerable implica fragilidad, una situación de amenaza o posibilidad de sufrir daño. Por tanto implica ser susceptible de recibir o padecer algo malo o 
 doloroso, como una enfermedad, y también tener la posibilidad de ser herido física o emocionalmente.
 
-**Amenaza:**
+Amenaza:
+
 Una amenaza es un fenómeno o proceso natural o causado por el serhumano que puede poner en peligro a un grupo de personas, sus cosas y su ambiente, cuando 
 no son precavidos.
 
-**Impacto:**
+Impacto:
+
 Conjunto de posibles efectos sobre el medio ambiente de una modificación del entorno natural, como consecuencia de obras u otras actividades.
 
